@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LGMVIP--Web-Task-02/static/css/main.e087be67.css",
+    "main.js": "/LGMVIP--Web-Task-02/static/js/main.12cb9033.js",
+    "static/js/787.556f3161.chunk.js": "/LGMVIP--Web-Task-02/static/js/787.556f3161.chunk.js",
+    "index.html": "/LGMVIP--Web-Task-02/index.html",
+    "main.e087be67.css.map": "/LGMVIP--Web-Task-02/static/css/main.e087be67.css.map",
+    "main.12cb9033.js.map": "/LGMVIP--Web-Task-02/static/js/main.12cb9033.js.map",
+    "787.556f3161.chunk.js.map": "/LGMVIP--Web-Task-02/static/js/787.556f3161.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e087be67.css",
+    "static/js/main.12cb9033.js"
+  ]
+}
